@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ネイビーブルー",
+  "base_artist": "L4mps",
+  "createdAt": "2026-02-12T15:15:31.942334Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネイビーブルー",
+      "artist": "L4mps [蜂乃屋 凪(CV:坂田 将吾), 白光 糖衣(CV:榊原 優希), 白光 琉衣(CV:小松 昌平), 棗 夜鷹(CV:光富 崇雄), 夜半 子タろ(CV:堀江 瞬)]",
+      "has_synced": false,
+      "path": "select/pl_01_ネイビーブルー_L4mps_[蜂乃屋_凪(CV_坂田_将吾),_白光_糖衣(CV_榊原_優希),_白光_琉衣(CV_小松_昌平),_棗_夜鷹(CV_光富_崇雄),_夜半_子タろ.txt"
+    }
+  ]
+}
